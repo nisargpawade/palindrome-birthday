@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #27272A
+    ;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    max-width: 600px;
+    padding: 1rem 3rem;
+    background-color: #27272A
+    ;
+}
+
+h1 {
+    color: aliceblue;
+    margin-bottom: 3rem;
+}
+
+input {
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    color: aliceblue;
+    background-color: #52525B;
+}
+
+button{
+    padding: 0.5rem;
+    font-size: 100%;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: aliceblue;
+    background-color: #52525B;
+}
+#output-element{
+    color: aliceblue;
+}
